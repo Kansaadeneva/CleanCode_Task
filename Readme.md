@@ -22,8 +22,8 @@ CleanCode\_Task/
 
 |  Minggu  |     Status     |       Deskripsi Singkat                 |
 |----------|----------------|-----------------------------------------|
-| Minggu 1 | ✅ Done     | Introducing dan Resume                 |
-| Minggu 2 | ✅ Done       | Refactoring dan CleanCode Practice     |
+| Minggu 1 | ✅ Done       | Introducing dan Resume                  |
+| Minggu 2 | ✅ Done       | Refactoring dan CleanCode Practice      |
 
 
 ## 🎯 Tujuan Repository
