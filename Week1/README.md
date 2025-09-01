@@ -7,4 +7,6 @@ Tugas ini berupa **resume Code Conventions Java** berdasarkan dokumen resmi Orac
 Resume sudah disimpan di file:  
 `3123600009_KansaAdeneva_Resume.docx`
 
+Referensi diagram: [Java Code Conventions Mind Map](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-java-coding-convention/)  
+
 ---
