@@ -12,8 +12,8 @@ Tujuannya untuk menyimpan tugas dengan rapi, memudahkan revisi, dan sebagai refe
 
 CleanCode\_Task/
 │
-├── Minggu\_1/       # Tugas minggu 1
-├── Minggu\_2/       # Tugas minggu 2
+├── Week1/       # Tugas minggu 1
+├── Week2/       # Tugas minggu 2
 └── README.md
 
 ---
