@@ -8,7 +8,7 @@ Tujuannya untuk menyimpan tugas dengan rapi, memudahkan revisi, dan sebagai refe
 
 ## 📂 Struktur Folder
 
-```
+---
 
 CleanCode\_Task/
 │
@@ -16,7 +16,7 @@ CleanCode\_Task/
 ├── Minggu\_2/       # Tugas minggu 2
 └── README.md
 
-````
+---
 
 ## 📝 Daftar Tugas
 
